@@ -1,5 +1,9 @@
 # CVDS3Parcial
 
+para el diseño
+se hizo una clase base de model que es de Cita
+y  ese se hizo su respectvo service, controller y repository
+
 ![](https://github.com/hakki17/CVDS3Parcial/blob/main/img/1.%20pom.png)
 ![](https://github.com/hakki17/CVDS3Parcial/blob/main/img/2.%20estructura.png)
 ![](https://github.com/hakki17/CVDS3Parcial/blob/main/img/3.%20application.properties.png)
